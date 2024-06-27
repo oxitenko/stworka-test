@@ -1,0 +1,15 @@
+.card {
+  background-color: rgba(
+    53.00000064074993,
+    121.00000038743019,
+    245.00000059604645,
+    1
+  );
+  width: calc(743px - 40px);
+  height: calc(91px - 20px);
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,16 @@
+.checklist__bage {
+  display: inline-flex;
+  background-color: rgba(
+    34.631626680493355,
+    100.10192736983299,
+    219.4889599084854,
+    1
+  );
+  width: 76px;
+  height: 18px;
+  border-radius: 40px;
+  font-size: 12px;
+  line-height: 18px;
+  color: #f4f8ff;
+  justify-content: center;
+}

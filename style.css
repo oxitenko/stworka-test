@@ -1,0 +1,24 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/main/main.css);
+@import url(./blocks/card/card.css);
+@import url(./blocks/circle/circle.css);
+@import url(./blocks/circle/__body/circle__body.css);
+@import url(./blocks/circle/__progress/circle__progress.css);
+@import url(./blocks/circle/__text/circle__text.css);
+@import url(./blocks/wrapper/wrapper.css);
+@import url(./blocks/checklist/checklist.css);
+@import url(./blocks/checklist/__bage/checklist__bage.css);
+@import url(./blocks/checklist/__progress/checklist__progress.css);
+@import url(./blocks/checklist/__text/checklist__text.css);
+@import url(./blocks/button/button.css);
+@import url(./blocks/button/__open/button__open.css);
+
+body {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+}
+
+p {
+  margin: 0;
+}

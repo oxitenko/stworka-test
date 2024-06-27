@@ -1,0 +1,8 @@
+.main {
+  display: flex;
+  max-width: 1140px;
+  height: 100vh;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
